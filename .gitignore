@@ -1,0 +1,18 @@
+# Virtual Environments
+venv/
+AvcaEnv/
+env/
+.env
+
+# Model Weights and Merged Folders
+avca-vllm-ready/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+.cache/
+
+# Python Cache
+__pycache__/
+*.pyc
